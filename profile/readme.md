@@ -6,4 +6,4 @@ Ce groupe est composé de:
 
 Nous possédons deux dépôts:
   - Site-Resto: Site PHP
-  - Resto-Swing: Application Swing qui communique avec Site-Resto
+  - Resto-Swing: Application Swing qui communique via une API/REST avec Site-Resto (Partie cliente de RestoWeb) 
